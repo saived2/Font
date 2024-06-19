@@ -22,3 +22,6 @@ canvas{
     border-radius: 20px;
     box-shadow: 5px 5px 5px rgb(255, 221, 0);
 }
+body{
+    background-image: linear-gradient(to right top, #66ff87, #4dff4f, #00ff2f, hsl(161, 100%, 50%), #00fffb);
+}
